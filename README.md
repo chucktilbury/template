@@ -1,2 +1,2 @@
-# template
-Empty template repo for my projects
+# Template
+Template for my projects written in C
